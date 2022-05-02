@@ -5,7 +5,7 @@ blog home page: [79的流浪地球](https://x.79v2r.ml/)
 
 # Usage
 
-creat a `<title>.md` file using whatever `tile` as your blog's title under the `/source/_drafts` or `/source/_posts` ( `drafts` will not be pulished).
+creat a `<title>.md` file using whatever `title` as your blog's title under the `/source/_drafts` or `/source/_posts` ( `drafts` will not be pulished).
 Also, there's a template file in `/templates` , you can copy it and rename it. By the way, don't forget to change the `author` in `Front-matter` of the document. 
 For more Info : [Front-matter | Hexo](https://hexo.io/zh-cn/docs/front-matter)
 
