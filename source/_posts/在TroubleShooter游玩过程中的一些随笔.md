@@ -6,6 +6,7 @@ tags:
   - SRPG
   - 随笔
 date: 2022-05-03 21:57:25
+updated: 2022-05-04 00:00:00
 mathjax: true
 ---
 
@@ -16,6 +17,7 @@ mathjax: true
 # 游戏截图
 ![战斗界面](在TroubleShooter游玩过程中的一些随笔/战斗界面1.png)
 ![](在TroubleShooter游玩过程中的一些随笔/image-20220502162655911.png)
+<!--more-->
 
 # 战斗系统
 ## 关卡设计
