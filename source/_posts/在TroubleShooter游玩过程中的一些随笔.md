@@ -1,7 +1,7 @@
 ---
 title: 在TroubleShooter游玩过程中的一些随笔
 tags:
-  - 游戏制作
+  - 游戏开发
   - 纷争终结者
   - SRPG
   - 随笔
