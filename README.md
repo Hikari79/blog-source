@@ -1,7 +1,7 @@
 # Blog-source
 This repository is used to store blog source texts and attachments. Besides, it also can be a repo for co-operating.
 
-blog home page: [79的流浪地球](https://blog.hikari79.tk/)
+blog home page: [79的流浪地球](https://hikari79.cn.eu.org/)
 
 # Usage
 
